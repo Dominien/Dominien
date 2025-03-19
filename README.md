@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Marco Patzelt<br>Full-Stack Web Developer specializing in custom web applications and intelligent automation solutions<br>With over 5 years of experience, I develop tailored web solutions that not only work well but also look good and are intuitive to use. Whether as part of a team or independently, I find the right solution for every challenge.
+👋 Hi there, I'm Marco Patzelt<br>Full-Stack Web Developer specializing in custom web applications and intelligent automation solutions<br>With over 2 years of experience, I develop tailored web solutions that not only work well but also look good and are intuitive to use. Whether as part of a team or independently, I find the right solution for every challenge.
 
 
 # 💻 Tech Stack:
