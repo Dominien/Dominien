@@ -9,7 +9,7 @@
 
 <br/>
 
-> **"Moving beyond RAG. I build AI systems that write their own integration code at runtime."**
+> **Moving beyond RAG. I build AI systems that write their own integration code at runtime.**
 
 <br/>
 
