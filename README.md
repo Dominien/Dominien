@@ -28,15 +28,14 @@
 **My work spans theoretical orchestration and practical automation.**
 I build **Cognitive Middleware** that defines its own logic pathways (System 2 Thinking) and **Specialized Agents** that execute high-value workflows autonomously (Web Scraping & Analysis).
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Dominien/agentic-orchestration-layer-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Dominien&repo=agentic-orchestration-layer-model&theme=radical&background_color=0D1117&title_color=E6E6E6&icon_color=58A6FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Dominien&repo=agentic-orchestration-layer-model&theme=radical&background_color=0D1117&title_color=E6E6E6&icon_color=58A6FF" height="150" alt="Agentic Orchestration" />
   </a>
-  <br/>
-  <a href="https://github.com/Dominien/job-sniper-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Dominien&repo=job-sniper-bot&theme=radical&background_color=0D1117&title_color=E6E6E6&icon_color=38B2AC" />
+  <a href="https://github.com/Dominien/Job-Sniper">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Dominien&repo=Job-Sniper&theme=radical&background_color=0D1117&title_color=E6E6E6&icon_color=38B2AC" height="150" alt="Job Sniper" />
   </a>
-</p>
+</div>
 
 <details>
 <summary><strong>▽ View Orchestration Layer Architecture (Click to Expand)</strong></summary>
