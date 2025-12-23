@@ -1,50 +1,106 @@
-### Hi there 👋, I'm Marco Patzelt.
-**Building Autonomous Agentic Systems & Decentralized Architecture.**
+<div align="center">
+
+# Marco Patzelt
+### Agentic AI Architect & Systems Engineer
+**Autonomous Systems | Dynamic Orchestration | Self-Correcting Intelligence**
+
+[![System Status](https://img.shields.io/badge/System_Status-All_Systems_Operational-success?style=for-the-badge&logo=statuspage)](https://github.com/Dominien)
+[![Location](https://img.shields.io/badge/Base-Düsseldorf_/_Remote-blue?style=for-the-badge&logo=googlemaps)](https://github.com/Dominien)
+
+<br/>
+
+> **"Moving beyond RAG. I build AI systems that write their own integration code at runtime."**
+
+<br/>
+
+<a href="https://www.marc0.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-www.marc0.dev-7025E8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:marcopatzelt7@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-Email_Me-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 🚀 Featured Work
-I am currently building an **Agentic Orchestration Layer**—a dynamic intelligence middleware that replaces static data pipelines with AI-driven, runtime code generation.
+### 🧠 Current R&D: The Agentic Shift
+**Shifting from static data pipelines to Dynamic Intelligence Middleware.**
+I am actively researching and developing Orchestration Layers where the AI defines its own existence, tools, and data pathways on the fly.
 
 <a href="https://github.com/Dominien/agentic-orchestration-layer-model">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Dominien&repo=agentic-orchestration-layer-model&theme=radical&background_color=0D1117&title_color=E6E6E6&icon_color=58A6FF" />
 </a>
 
-<br/>
+<details>
+<summary><strong>▽ View System Architecture & Methodology (Click to Expand)</strong></summary>
 <br/>
 
-### 🛠️ Technical Arsenal
+**The Concept:** A "System 2" cognitive middleware replacing static pipelines with dynamic reasoning.
 
-**Core & Systems**
-<br/>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+| Component | Function | Technology |
+| :--- | :--- | :--- |
+| **Cognitive Layer** | **The Orchestrator.** Plans, hypothesizes, and orchestrates execution using encrypted "Native Thinking" to simulate outcomes. | **Gemini 3 Pro** (ThinkingLevel.HIGH) |
+| **Capability Layer** | **Runtime Tools.** A Generic SQL tool for dynamic schema mapping and a secure Sandbox for math/logic execution. | **Supabase** + **E2B Code Interpreter** |
+| **Knowledge Layer** | **The Constitution.** Business logic defined in Markdown files, loaded into context for instant adaptation without code deploys. | **In-Context Learning** |
+| **Supervisor Layer** | **Safety & Verification.** Uses a "Triangulation Protocol" (calculating via SQL path vs Python path) to verify data integrity ($Delta < 1%$). | **Zod** + **Runtime Assertions** |
 
-**Web & Interface**
-<br/>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-**Data, AI & Web3**
-<br/>
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-**Infrastructure & Deployment**
-<br/>
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+</details>
 
 ---
 
-### 📊 GitHub Stats
+### 🏗️ Engineering Foundation: Lean Architecture
+My AI research is built on a solid background of **robust, serverless infrastructure**.
+I specialize in decoupling complex business logic from frontends to create systems that are scalable, type-safe, and independent of heavy enterprise legacy structures.
+
+> **"No Enterprise Bloat. Just Performance."**
+
+### 💼 Professional Case Study
+**Automated Event Booking Architecture** *Realized at Marketer UX GmbH*
+
+> **The Challenge:** Connect a Webflow Frontend with Microsoft Dynamics 365 to handle complex bookings without enterprise overhead.
+
+| Architectural Component | Tech Implementation |
+| :--- | :--- |
+| **Middleware Layer** | **Node.js (Serverless)**. Decoupled logic ensures frontend performance. |
+| **State & Caching** | **Upstash (Redis)** for high-performance rate limiting & queues. |
+| **Runtime Safety** | **Zod + TypeScript** for strict end-to-end schema validation. |
+| **Localization Ops** | Automated translation pipelines via **DeepL API**. |
+
+---
+
+### ⚔️ Technical Arsenal
+I don't just use tools; I architect systems.
+
+**1. The Cognitive Layer (AI & Data)**
+*Systems that reason, retrieve, and execute.*
+<br/>
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_&_pgvector-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![E2B](https://img.shields.io/badge/Sandboxing-E2B-orange?style=for-the-badge)
+
+**2. The Lean Infrastructure (Serverless)**
+*Zero-maintenance scalability and event-driven patterns.*
+<br/>
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_/_Upstash-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**3. The Integrity Layer (UI & Quality)**
+*Ensuring stability through strict typing and modern frameworks.*
+<br/>
+![Next JS](https://img.shields.io/badge/Next.js_16-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_v4-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
 ![Dominien's Stats](https://github-readme-stats.vercel.app/api?username=Dominien&theme=radical&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true)
+
+<div align="center">
+  <small>© 2025 Marco Patzelt. All rights reserved.</small>
+</div>
