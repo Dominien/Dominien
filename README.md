@@ -24,16 +24,22 @@
 
 ---
 
-### 🧠 Current R&D: The Agentic Shift
-**Shifting from static data pipelines to Dynamic Intelligence Middleware.**
-I am actively researching and developing Orchestration Layers where the AI defines its own existence, tools, and data pathways on the fly.
+### 🧠 Current R&D: Cognitive Systems & Applied Agents
+**My work spans theoretical orchestration and practical automation.**
+I build **Cognitive Middleware** that defines its own logic pathways (System 2 Thinking) and **Specialized Agents** that execute high-value workflows autonomously (Web Scraping & Analysis).
 
-<a href="https://github.com/Dominien/agentic-orchestration-layer-model">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Dominien&repo=agentic-orchestration-layer-model&theme=radical&background_color=0D1117&title_color=E6E6E6&icon_color=58A6FF" />
-</a>
+<p align="center">
+  <a href="https://github.com/Dominien/agentic-orchestration-layer-model">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Dominien&repo=agentic-orchestration-layer-model&theme=radical&background_color=0D1117&title_color=E6E6E6&icon_color=58A6FF" />
+  </a>
+  <br/>
+  <a href="https://github.com/Dominien/job-sniper-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Dominien&repo=job-sniper-bot&theme=radical&background_color=0D1117&title_color=E6E6E6&icon_color=38B2AC" />
+  </a>
+</p>
 
 <details>
-<summary><strong>▽ View System Architecture & Methodology (Click to Expand)</strong></summary>
+<summary><strong>▽ View Orchestration Layer Architecture (Click to Expand)</strong></summary>
 <br/>
 
 **The Concept:** A "System 2" cognitive middleware replacing static pipelines with dynamic reasoning.
