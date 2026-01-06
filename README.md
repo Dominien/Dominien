@@ -49,27 +49,6 @@ I build **Cognitive Middleware** that defines its own logic pathways (System 2 T
 
 </details>
 
----
-
-### 🏗️ Engineering Foundation: Lean Architecture
-My AI research is built on a solid background of **robust, serverless infrastructure**.
-I specialize in decoupling complex business logic from frontends to create systems that are scalable, type-safe, and independent of heavy enterprise legacy structures.
-
-> **"No Enterprise Bloat. Just Performance."**
-
-### 💼 Professional Case Study
-**Automated Event Booking Architecture** *Realized at Marketer UX GmbH*
-
-> **The Challenge:** Connect a Webflow Frontend with Microsoft Dynamics 365 to handle complex bookings without enterprise overhead.
-
-| Architectural Component | Tech Implementation |
-| :--- | :--- |
-| **Middleware Layer** | **Node.js (Serverless)**. Decoupled logic ensures frontend performance. |
-| **State & Caching** | **Upstash (Redis)** for high-performance rate limiting & queues. |
-| **Runtime Safety** | **Zod + TypeScript** for strict end-to-end schema validation. |
-| **Localization Ops** | Automated translation pipelines via **DeepL API**. |
-
----
 
 ### ⚔️ Technical Arsenal
 I don't just use tools; I architect systems.
