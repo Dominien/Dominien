@@ -26,7 +26,7 @@
 
 ### 🧠 Current R&D: Cognitive Systems & Applied Agents
 **My work spans theoretical orchestration and practical automation.**
-I build **Cognitive Middleware** that defines its own logic pathways (System 2 Thinking) and **Specialized Agents** that execute high-value workflows autonomously (Web Scraping & Analysis).
+I build **Cognitive Middleware** that defines its own logic pathways (System 2 Thinking).
 
 <p align="left">
   <a href="https://github.com/Dominien/agentic-orchestration-layer-model">
