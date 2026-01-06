@@ -32,10 +32,6 @@ I build **Cognitive Middleware** that defines its own logic pathways (System 2 T
   <a href="https://github.com/Dominien/agentic-orchestration-layer-model">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Dominien&repo=agentic-orchestration-layer-model&theme=radical&background_color=0D1117&title_color=E6E6E6&icon_color=58A6FF&t=1" height="150" alt="Agentic Orchestration" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Dominien/Job-Sniper">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Dominien&repo=Job-Sniper&theme=radical&background_color=0D1117&title_color=E6E6E6&icon_color=38B2AC&t=1" height="150" alt="Job Sniper" />
-  </a>
 </p>
 
 <details>
