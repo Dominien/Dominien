@@ -28,11 +28,7 @@
 **My work spans theoretical orchestration and practical automation.**
 I build **Cognitive Middleware** that defines its own logic pathways (System 2 Thinking).
 
-<p align="left">
-  <a href="https://github.com/Dominien/agentic-orchestration-layer-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Dominien&repo=agentic-orchestration-layer-model&theme=radical&background_color=0D1117&title_color=E6E6E6&icon_color=58A6FF&t=1" height="150" alt="Agentic Orchestration" />
-  </a>
-</p>
+[![Agentic Orchestration](https://github-readme-stats.vercel.app/api/pin?username=Dominien&repo=agentic-orchestration-layer-model&theme=radical&bg_color=0D1117&title_color=E6E6E6&icon_color=58A6FF)](https://github.com/Dominien/agentic-orchestration-layer-model)
 
 <details>
 <summary><strong>▽ View Orchestration Layer Architecture (Click to Expand)</strong></summary>
@@ -80,7 +76,7 @@ I don't just use tools; I architect systems.
 ---
 
 ### 📊 GitHub Activity
-![Dominien's Stats](https://github-readme-stats.vercel.app/api?username=Dominien&theme=radical&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true)
+![Dominien's Stats](https://github-readme-stats.vercel.app/api?username=Dominien&theme=radical&bg_color=0D1117&hide_border=true&include_all_commits=true)
 
 <div align="center">
   <small>© 2025 Marco Patzelt. All rights reserved.</small>
