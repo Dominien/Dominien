@@ -80,7 +80,11 @@ I don't just use tools; I architect systems.
 ---
 
 ### 📊 GitHub Activity
-![Dominien's Stats](https://github-readme-stats.vercel.app/api?username=Dominien&theme=radical&bg_color=0D1117&hide_border=true&include_all_commits=true)
+![Dominien's Stats](https://github-readme-stats.vercel.app/api?username=Dominien&theme=radical&bg_color=0D1117&hide_border=true)
+
+<div align="center">
+  <small>© 2025 Marco Patzelt. All rights reserved.</small>
+</div>
 
 <div align="center">
   <small>© 2025 Marco Patzelt. All rights reserved.</small>
