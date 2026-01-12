@@ -85,7 +85,3 @@ I don't just use tools; I architect systems.
 <div align="center">
   <small>© 2025 Marco Patzelt. All rights reserved.</small>
 </div>
-
-<div align="center">
-  <small>© 2025 Marco Patzelt. All rights reserved.</small>
-</div>
