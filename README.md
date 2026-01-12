@@ -28,7 +28,11 @@
 **My work spans theoretical orchestration and practical automation.**
 I build **Cognitive Middleware** that defines its own logic pathways (System 2 Thinking).
 
-[![Agentic Orchestration](https://github-readme-stats.vercel.app/api/pin?username=Dominien&repo=agentic-orchestration-layer-model&theme=radical&bg_color=0D1117&title_color=E6E6E6&icon_color=58A6FF)](https://github.com/Dominien/agentic-orchestration-layer-model)
+<br/>
+
+[![Repo](https://img.shields.io/badge/Current_Project-Agentic_Orchestration_Layer-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dominien/agentic-orchestration-layer-model)
+
+<br/>
 
 <details>
 <summary><strong>▽ View Orchestration Layer Architecture (Click to Expand)</strong></summary>
