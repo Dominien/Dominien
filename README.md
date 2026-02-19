@@ -32,6 +32,8 @@ I build **Cognitive Middleware** that defines its own logic pathways (System 2 T
 
 [![Repo](https://img.shields.io/badge/Current_Project-Agentic_Orchestration_Layer-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dominien/agentic-orchestration-layer-model)
 
+[![Repo](https://img.shields.io/badge/Latest_Release-Agentic_SEO_Agent-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dominien/agentic-seo-agent)
+
 <br/>
 
 <details>
@@ -49,6 +51,22 @@ I build **Cognitive Middleware** that defines its own logic pathways (System 2 T
 
 </details>
 
+<details>
+<summary><strong>▽ View Agentic SEO Architecture (Click to Expand)</strong></summary>
+<br/>
+
+**The Concept:** An autonomous SEO agent with a tool loop that connects to your real data — not another prompt wrapper.
+
+| Component | Function | Technology |
+| :--- | :--- | :--- |
+| **AOL Engine** | **The Core Loop.** Plan → execute → verify cycle, up to 5 rounds of tool calls per message. Cross-references multiple data sources before answering. | **Custom SSE via POST** |
+| **Data Layer** | **Your Real Numbers.** OAuth connection to Google Search Console, 90 days of query/page data with date-level trends. | **GSC API** + **OAuth 2.0** |
+| **Content Layer** | **Site Intelligence.** Sitemap-based crawling with Mozilla Readability. Builds full content inventory with internal link mapping. | **Readability** + **JSON Store** |
+| **Style Layer** | **Brand Voice.** Auto-generates 6 writing style files from your existing content. Anti-Words system bans 50+ AI slop phrases. | **In-Context Learning** |
+| **Provider Layer** | **Model Agnostic.** 20+ models via OpenRouter, Anthropic, and OpenAI. Custom adapters with native fetch(), no Vercel AI SDK. | **BYOK** + **OpenRouter** |
+
+</details>
+
 
 ### ⚔️ Technical Arsenal
 I don't just use tools; I architect systems.
@@ -57,6 +75,9 @@ I don't just use tools; I architect systems.
 *Systems that reason, retrieve, and execute.*
 <br/>
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=openai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GSC API](https://img.shields.io/badge/Search_Console_API-EA4335?style=for-the-badge&logo=google&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_&_pgvector-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![E2B](https://img.shields.io/badge/Sandboxing-E2B-orange?style=for-the-badge)
