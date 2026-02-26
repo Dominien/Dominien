@@ -32,8 +32,6 @@ I build **Cognitive Middleware** that defines its own logic pathways (System 2 T
 
 [![Repo](https://img.shields.io/badge/Current_Project-Agentic_Orchestration_Layer-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dominien/agentic-orchestration-layer-model)
 
-[![Repo](https://img.shields.io/badge/Latest_Release-Agentic_SEO_Agent-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dominien/agentic-seo-agent)
-
 <br/>
 
 <details>
