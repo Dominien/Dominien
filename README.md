@@ -49,23 +49,6 @@ I build **Cognitive Middleware** that defines its own logic pathways (System 2 T
 
 </details>
 
-<details>
-<summary><strong>▽ View Agentic SEO Architecture (Click to Expand)</strong></summary>
-<br/>
-
-**The Concept:** An autonomous SEO agent with a tool loop that connects to your real data — not another prompt wrapper.
-
-| Component | Function | Technology |
-| :--- | :--- | :--- |
-| **AOL Engine** | **The Core Loop.** Plan → execute → verify cycle, up to 5 rounds of tool calls per message. Cross-references multiple data sources before answering. | **Custom SSE via POST** |
-| **Data Layer** | **Your Real Numbers.** OAuth connection to Google Search Console, 90 days of query/page data with date-level trends. | **GSC API** + **OAuth 2.0** |
-| **Content Layer** | **Site Intelligence.** Sitemap-based crawling with Mozilla Readability. Builds full content inventory with internal link mapping. | **Readability** + **JSON Store** |
-| **Style Layer** | **Brand Voice.** Auto-generates 6 writing style files from your existing content. Anti-Words system bans 50+ AI slop phrases. | **In-Context Learning** |
-| **Provider Layer** | **Model Agnostic.** 20+ models via OpenRouter, Anthropic, and OpenAI. Custom adapters with native fetch(), no Vercel AI SDK. | **BYOK** + **OpenRouter** |
-
-</details>
-
-
 ### ⚔️ Technical Arsenal
 I don't just use tools; I architect systems.
 
