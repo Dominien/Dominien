@@ -14,15 +14,7 @@
 
 ### What I'm building
 
-<a href="https://github.com/Dominien/agent-factory">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dominien&repo=agent-factory&theme=dark&hide_border=true&bg_color=0d1117&title_color=f5c542&icon_color=f5c542&text_color=c9d1d9" alt="Agent Factory" />
-</a>
-
-<br/>
-
-> **An autonomous system that researches real problems, scores them by demand + feasibility, builds specialized AI agents, validates they work, and ships them — while you sleep. No human in the loop.**
-> 
-> Inspired by Karpathy's autoresearch.
+> **[Agent Factory](https://github.com/Dominien/agent-factory)** — An autonomous system that researches real problems, scores them by demand + feasibility, builds specialized AI agents, validates they work, and ships them — while you sleep. No human in the loop. Inspired by Karpathy's autoresearch.
 
 <p>
   <a href="https://github.com/Dominien/agent-factory/stargazers">
@@ -30,9 +22,6 @@
   </a>&nbsp;
   <a href="https://github.com/Dominien/agent-factory/network/members">
     <img src="https://img.shields.io/github/forks/Dominien/agent-factory?style=for-the-badge&logo=git&label=Forks&color=4a90d9" alt="Forks"/>
-  </a>&nbsp;
-  <a href="https://github.com/Dominien/agent-factory">
-    <img src="https://img.shields.io/github/last-commit/Dominien/agent-factory?style=for-the-badge&logo=github&label=Last%20Commit&color=2ea44f" alt="Last Commit"/>
   </a>
 </p>
 
