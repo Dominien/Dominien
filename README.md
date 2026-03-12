@@ -27,7 +27,6 @@
 
 | Project | What it does | Stars |
 | :--- | :--- | :--- |
-| **[Agentic SEO Agent](https://github.com/Dominien/agentic-seo-agent)** | Open-source AI SEO strategist. Connects to Google Search Console, crawls your site, writes in your brand voice. Multi-provider, agentic tool loop, persistent memory. | ![Stars](https://img.shields.io/github/stars/Dominien/agentic-seo-agent?style=flat-square&color=yellow) |
 | **[Agentic Orchestration Layer](https://github.com/Dominien/agentic-orchestration-layer-model)** | System 2 cognitive middleware — runtime code generation replaces static data pipelines. Self-correcting triangulation protocol (SQL path vs Python path, Δ < 1%). | ![Stars](https://img.shields.io/github/stars/Dominien/agentic-orchestration-layer-model?style=flat-square&color=yellow) |
 
 ---
@@ -35,8 +34,6 @@
 ### What I do professionally
 
 **Integration Engineer** — I build real-time middleware between enterprise CRMs (Microsoft Dynamics 365) and modern frontends (Webflow, Next.js). Entity reconciliation, automated content pipelines, high-performance caching with Redis. Production systems handling live business data daily.
-
-**Bootstrapping [myagenticseo.com](https://myagenticseo.com)** — Turning the open-source SEO agent into a SaaS product. Supabase with RLS, Stripe billing, SSE streaming, autonomous task reevaluation loop. Currently in beta with early users.
 
 ---
 
