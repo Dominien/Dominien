@@ -14,12 +14,29 @@
 
 ### What I'm building
 
-**[Agent Factory](https://github.com/Dominien/agent-factory)** — An autonomous system that researches real problems, scores them by demand + feasibility, builds specialized AI agents, validates they work, and ships them — while you sleep. No human in the loop. Inspired by Karpathy's autoresearch.
+<a href="https://github.com/Dominien/agent-factory">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dominien&repo=agent-factory&theme=dark&hide_border=true&bg_color=0d1117&title_color=f5c542&icon_color=f5c542&text_color=c9d1d9" alt="Agent Factory" />
+</a>
 
-[![Stars](https://img.shields.io/github/stars/Dominien/agent-factory?style=flat-square&color=yellow)](https://github.com/Dominien/agent-factory/stargazers)
-[![Forks](https://img.shields.io/github/forks/Dominien/agent-factory?style=flat-square)](https://github.com/Dominien/agent-factory/network/members)
+<br/>
 
-`Claude Code` · `Next.js` · `OpenRouter` · `Composio` · 20+ agents shipped autonomously
+> **An autonomous system that researches real problems, scores them by demand + feasibility, builds specialized AI agents, validates they work, and ships them — while you sleep. No human in the loop.**
+> 
+> Inspired by Karpathy's autoresearch.
+
+<p>
+  <a href="https://github.com/Dominien/agent-factory/stargazers">
+    <img src="https://img.shields.io/github/stars/Dominien/agent-factory?style=for-the-badge&logo=github&label=Stars&color=f5c542" alt="Stars"/>
+  </a>&nbsp;
+  <a href="https://github.com/Dominien/agent-factory/network/members">
+    <img src="https://img.shields.io/github/forks/Dominien/agent-factory?style=for-the-badge&logo=git&label=Forks&color=4a90d9" alt="Forks"/>
+  </a>&nbsp;
+  <a href="https://github.com/Dominien/agent-factory">
+    <img src="https://img.shields.io/github/last-commit/Dominien/agent-factory?style=for-the-badge&logo=github&label=Last%20Commit&color=2ea44f" alt="Last Commit"/>
+  </a>
+</p>
+
+`Claude Code` · `Next.js` · `OpenRouter` · `Composio` · **20+ agents shipped autonomously**
 
 ---
 
