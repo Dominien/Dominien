@@ -4,7 +4,6 @@
 
 **I build AI systems that build AI systems.**
 
-[![Portfolio](https://img.shields.io/badge/marc0.dev-7025E8?style=flat-square&logo=googlechrome&logoColor=white)](https://www.marc0.dev/)
 [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:marcopatzelt7@gmail.com)
 [![Location](https://img.shields.io/badge/Düsseldorf%20/%20Remote-blue?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/Dominien)
 
