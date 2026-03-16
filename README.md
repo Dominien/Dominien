@@ -28,6 +28,21 @@
 
 ---
 
+> **[Social Agent Sim](https://github.com/Dominien/social-agent-sim)** — A social world model. 6 LLM agents live in a Berlin apartment building with zero personality prompts — just a 2-line bio, physics constraints, and 15 possible actions. Identity, relationships, and collective action emerge from the architecture, not from prompt engineering. The engine controls time and physics. The agents control everything else.
+
+<p>
+  <a href="https://github.com/Dominien/social-agent-sim/stargazers">
+    <img src="https://img.shields.io/github/stars/Dominien/social-agent-sim?style=for-the-badge&logo=github&label=Stars&color=f5c542" alt="Stars"/>
+  </a>&nbsp;
+  <a href="https://github.com/Dominien/social-agent-sim/network/members">
+    <img src="https://img.shields.io/github/forks/Dominien/social-agent-sim?style=for-the-badge&logo=git&label=Forks&color=4a90d9" alt="Forks"/>
+  </a>
+</p>
+
+`Claude Sonnet 4.6` · `TypeScript` · `Model-agnostic` · **Environment design over prompt engineering**
+
+---
+
 ### Open source
 
 | Project | What it does | Stars |
