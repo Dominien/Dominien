@@ -13,21 +13,6 @@
 
 ### What I'm building
 
-> **[Agent Factory](https://github.com/Dominien/agent-factory)** — An autonomous system that researches real problems, scores them by demand + feasibility, builds specialized AI agents, validates they work, and ships them — while you sleep. No human in the loop. Inspired by Karpathy's autoresearch.
-
-<p>
-  <a href="https://github.com/Dominien/agent-factory/stargazers">
-    <img src="https://img.shields.io/github/stars/Dominien/agent-factory?style=for-the-badge&logo=github&label=Stars&color=f5c542" alt="Stars"/>
-  </a>&nbsp;
-  <a href="https://github.com/Dominien/agent-factory/network/members">
-    <img src="https://img.shields.io/github/forks/Dominien/agent-factory?style=for-the-badge&logo=git&label=Forks&color=4a90d9" alt="Forks"/>
-  </a>
-</p>
-
-`Claude Code` · `Next.js` · `OpenRouter` · `Composio` · **20+ agents shipped autonomously**
-
----
-
 > **[Social Agent Sim](https://github.com/Dominien/social-agent-sim)** — A social world model. 6 LLM agents live in a Berlin apartment building with zero personality prompts — just a 2-line bio, physics constraints, and 15 possible actions. Identity, relationships, and collective action emerge from the architecture, not from prompt engineering. The engine controls time and physics. The agents control everything else.
 
 `Claude Sonnet 4.6` · `TypeScript` · `Model-agnostic` · **Environment design over prompt engineering**
