@@ -4,7 +4,7 @@
 
 **I build worlds where AI agents figure things out on their own.**
 
-[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:marcopatzelt7@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-black?style=flat-square&logo=googlechrome&logoColor=white)](https://www.marc0.dev/en/contact)
 [![Location](https://img.shields.io/badge/Düsseldorf%20/%20Remote-blue?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/Dominien)
 
 </div>
