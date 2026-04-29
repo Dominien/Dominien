@@ -17,20 +17,6 @@
 >
 > `TypeScript` · `Any LLM` · `Free models supported` · **The engine is the personality**
 
-Built on top of:
-
-> **[Social Agent Sim](https://github.com/Dominien/social-agent-sim)** — The project that started it all. 6 LLM agents in a Berlin apartment building with zero personality prompts. Just a 2 line bio, physics constraints, and 15 possible actions. Identity, relationships, and collective action emerge from the architecture. Brunnfeld took this social layer and added a full economy on top. ![Stars](https://img.shields.io/github/stars/Dominien/social-agent-sim?style=flat-square&color=yellow)
-
----
-
-### Open source
-
-| Project | What it does | Stars |
-| :--- | :--- | :--- |
-| **[Brunnfeld](https://github.com/Dominien/brunnfeld-agentic-world)** | 20 agent medieval village economy. No instructions, just world physics. Playable with God Mode. | ![Stars](https://img.shields.io/github/stars/Dominien/brunnfeld-agentic-world?style=flat-square&color=yellow) |
-| **[Social Agent Sim](https://github.com/Dominien/social-agent-sim)** | 6 agent social simulation in a Berlin apartment. The foundation Brunnfeld was built on. | ![Stars](https://img.shields.io/github/stars/Dominien/social-agent-sim?style=flat-square&color=yellow) |
-| **[Agentic Orchestration Layer](https://github.com/Dominien/agentic-orchestration-layer-model)** | Cognitive middleware with runtime code generation and self correcting triangulation. | ![Stars](https://img.shields.io/github/stars/Dominien/agentic-orchestration-layer-model?style=flat-square&color=yellow) |
-
 ---
 
 ### What I do professionally
