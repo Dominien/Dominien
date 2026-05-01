@@ -36,8 +36,6 @@ Human checkpoints sit at decision points and risk surfaces. The harness handles 
 
 **[Code Commander](https://github.com/Dominien/code-commander)** — desktop command center for managing multiple AI coding agent sessions across codebases. Multi-agent orchestration over MCP.
 
-**[LinkedIn MCP Server](https://github.com/Dominien/linkedin-mcp-server)** — open-source MCP server for LinkedIn. Profiles, companies, jobs, messages — accessible to any MCP-compatible AI assistant.
-
 ---
 
 ### Day job
