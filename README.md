@@ -20,7 +20,7 @@ Human checkpoints sit at decision points and risk surfaces. The harness handles 
 
 ---
 
-### Marquee
+### Featured project
 
 **[Brunnfeld](https://github.com/Dominien/brunnfeld-agentic-world)** — multi-agent simulation testing environment-driven alignment. 19 LLM agents operate inside a deterministic game engine through structured tool calls — minimal instructions, rich environmental feedback. Methodology proof: the same patterns translate to commercial workflows.
 
@@ -28,7 +28,7 @@ Human checkpoints sit at decision points and risk surfaces. The harness handles 
 
 ---
 
-### Other receipts
+### Other open source
 
 **[Sales Agent](https://github.com/Dominien/sales-agent)** — skill-based outbound automation on MCP. Pluggable CRM adapters (sqlite / HubSpot / Close / Attio / Salesforce), per-channel rate limits, never-invent-details rule, hard error stops, human-in-the-loop feedback.
 
