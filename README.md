@@ -6,8 +6,6 @@
 
 *AI Agent Engineer · Harness Layer · Düsseldorf / Remote*
 
-[marc0.dev](https://www.marc0.dev) · [Writing](https://www.marc0.dev/en/blog) · [Leaderboard](https://www.marc0.dev/en/leaderboard) · [Contact](https://www.marc0.dev/en/contact)
-
 </div>
 
 ---
