@@ -1,59 +1,16 @@
-<div align="center">
-
 # Marco Patzelt
 
-**I build the harness so agents can own the workflow.**
+Software engineer in Düsseldorf. I build agentic systems and the integrations around them.
 
-*AI Agent Engineer · Harness Layer · Düsseldorf / Remote*
+Currently: an MCP-first SEO platform where the agent runs the full loop (find, fix, verify) across an agency's client roster. Day job is integration engineering, real-time middleware between Dynamics 365 and Webflow/Next.js.
 
-</div>
+### Open source
 
----
-
-### Thesis
-
-Environment design over prompt engineering. The leverage in agentic systems isn't in the system prompt — it's in the harness around it. Tool schemas, structured feedback, validation, escalation paths. The environment talks back; that's where alignment compounds.
-
-Human checkpoints sit at decision points and risk surfaces. The harness handles the rails. The agent owns the workflow.
-
----
-
-### Featured project
-
-**[Brunnfeld](https://github.com/Dominien/brunnfeld-agentic-world)** — multi-agent simulation testing environment-driven alignment. 19 LLM agents operate inside a deterministic game engine through structured tool calls — minimal instructions, rich environmental feedback. Methodology proof: the same patterns translate to commercial workflows.
-
-`TypeScript` · `Any LLM` · `Deterministic engine` · `123★`
-
----
-
-### Other open source
-
-**[Sales Agent](https://github.com/Dominien/sales-agent)** — skill-based outbound automation on MCP. Pluggable CRM adapters (sqlite / HubSpot / Close / Attio / Salesforce), per-channel rate limits, never-invent-details rule, hard error stops, human-in-the-loop feedback.
-
-**[HubSpot Sales Agent](https://github.com/Dominien/hubspot-sales-agent)** — autonomous sales agent. Bulk outreach, inbox classification, research-driven personalization, lead recovery. HubSpot + Gmail. Runs on any local agent harness.
-
-**[Code Commander](https://github.com/Dominien/code-commander)** — desktop command center for managing multiple AI coding agent sessions across codebases. Multi-agent orchestration over MCP.
-
----
-
-### Day job
-
-Integration Engineer. Real-time middleware between enterprise CRMs (Microsoft Dynamics 365) and modern frontends (Webflow, Next.js). Entity reconciliation, automated content pipelines, Redis caching, EU-pinned deployments. Production systems handling live business data daily.
-
----
+- **[Brunnfeld](https://github.com/Dominien/brunnfeld-agentic-world)** — multi-agent world simulation. 19 LLM agents in a deterministic game engine, structured tool calls, minimal instructions. TypeScript, works with any LLM backend.
+- **[Sales Agent](https://github.com/Dominien/sales-agent)** — skill-based outbound automation on MCP. Pluggable CRM adapters, per-channel rate limits, human-in-the-loop.
+- **[HubSpot Sales Agent](https://github.com/Dominien/hubspot-sales-agent)** — autonomous outreach, inbox classification, lead recovery. HubSpot + Gmail.
+- **[Code Commander](https://github.com/Dominien/code-commander)** — desktop tool for managing multiple AI coding agent sessions across codebases.
 
 ### Stack
 
-`AI` Claude · Gemini · OpenRouter · Supabase (pgvector) · E2B
-<br/>
-`Backend` Node.js · TypeScript · Vercel Serverless · Redis / Upstash · Docker · Dynamics 365 API
-<br/>
-`Frontend` Next.js · Tailwind · Zod · SSE streaming · Canvas
-<br/>
-`Payments & Auth` Stripe · Google OAuth · Supabase RLS
-
----
-
-<div align="center">
-  <sub>Environment design over prompt engineering.</sub>
-</div>
+TypeScript, Node.js, Next.js, Supabase/Postgres, Redis, Vercel, GitHub Actions, MCP.
